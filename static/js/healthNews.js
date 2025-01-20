@@ -1,6 +1,6 @@
 // for health news in landing page
 document.addEventListener('DOMContentLoaded', () => {
-    const healthNewsApp = new HealthNews('https://medkorea-7563d3b3955e.herokuapp.com//api/health-news');
+    const healthNewsApp = new HealthNews('https://medkorea.onrender.com/api/health-news');
     healthNewsApp.init();
 });
 

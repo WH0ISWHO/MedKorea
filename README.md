@@ -13,7 +13,7 @@ MedKorea is a web-based platform that helps foreign residents and visitors in Ko
 ---
 
 ## 🎥 **Live Demo**
-[Visit the live site here](https://medkorea-7563d3b3955e.herokuapp.com/)
+[Visit the live site here](https://medkorea.onrender.com)
 
 ---
 
@@ -32,7 +32,7 @@ MedKorea is a web-based platform that helps foreign residents and visitors in Ko
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MongoDB
 - **APIs**: [News API](https://newsapi.org) for health-related articles
-- **Deployment**: Heroku
+- **Deployment**: Render
 
 ---
 
